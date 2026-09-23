@@ -216,8 +216,8 @@ importers:
         specifier: ^2.5.13
         version: 2.5.13
       '@netlify/plugin-nextjs':
-        specifier: ^5.15.13
-        version: 5.15.13
+        specifier: ^5.16.0
+        version: 5.16.0
       '@rollup/plugin-commonjs':
         specifier: ^29.0.3
         version: 29.0.3(rollup@4.63.1)
@@ -1551,8 +1551,8 @@ packages:
       '@emnapi/core': ^1.7.1
       '@emnapi/runtime': ^1.7.1
 
-  '@netlify/plugin-nextjs@5.15.13':
-    resolution: {integrity: sha512-gBmWtgG13ZW4ytNMCvacfwZemtdtV/Ekc+6RBYvI5fndjmDvKxgFHylsw7oli+PHMGAtNqaJrN8QccGnDReu6A==}
+  '@netlify/plugin-nextjs@5.16.0':
+    resolution: {integrity: sha512-ys9G34vifslRRy1VwbOMVNFSKU/vuWdNGcYqvAsCAB8VlDFnZDUBM1WUDjDjXOnNXb8kLXA3hX5LgISEONAhAA==}
     engines: {node: '>=18.0.0'}
 
   '@next/env@16.3.4':
@@ -6919,7 +6919,7 @@ snapshots:
       '@tybys/wasm-util': 0.10.3
     optional: true
 
-  '@netlify/plugin-nextjs@5.15.13': {}
+  '@netlify/plugin-nextjs@5.16.0': {}
 
   '@next/env@16.3.4': {}
 
